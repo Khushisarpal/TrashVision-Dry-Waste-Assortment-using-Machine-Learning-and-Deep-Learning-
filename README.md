@@ -1,0 +1,2 @@
+# TrashVision-Dry-Waste-Assortment-using-Machine-Learning-and-Deep-Learning-
+As a part of my degree requirements, I have completed a project which improves the assortment accuracy of dry waste using an integrated model of machine learning (RESTNet) &amp; image processing (YOLOv8). Alongside the project, we have also conducted experiments and published a research paper. This contribution aligns with UN SDG 9 &amp; 11.
